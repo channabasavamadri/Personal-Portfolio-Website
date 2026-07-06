@@ -28,5 +28,6 @@ The website follows responsive web design principles, ensuring that it adapts au
 Overall, the Personal Portfolio Website is an effective platform for presenting professional achievements, technical expertise, and project experience. It demonstrates practical knowledge of front-end web development while providing a centralized location for showcasing accomplishments. The project also serves as an excellent learning experience in designing responsive websites, improving user interface design, and implementing interactive features using HTML, CSS, and JavaScript. It is suitable for students, fresh graduates, freelancers, and professionals who wish to build a strong online presence and improve their employment opportunities in the competitive technology industry.
 
 OUTPUT:
-
+<img width="1902" height="1018" alt="Image" src="https://github.com/user-attachments/assets/82617076-b47d-4d7d-8f8a-b3b61f0b895e" />
 <img width="1793" height="940" alt="Image" src="https://github.com/user-attachments/assets/0f5e5ef7-4b85-4b20-843b-9209134c163c" />
+
